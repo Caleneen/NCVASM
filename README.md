@@ -1,6 +1,8 @@
 # NCVASM
 Интерпретатор ассемблеро-подобного языка, созданный на Clickteam Fusion
 
+Discord сервер: https://discord.com/invite/xvmTEA53Yx
+
 # FAQ
 
 ## У меня антивирус думает, что это вирус. Это правда?
