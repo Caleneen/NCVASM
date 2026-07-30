@@ -136,7 +136,7 @@ ID
 I
 1
 JMP
-LIN
+I
 9
 
 EXIT:
